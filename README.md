@@ -30,6 +30,7 @@ Tercer circuito: La combinación en paralelo de R2 y R3 está en serie con la co
 ![](Imagen1/5.png)
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
+
 Figura 1
 Rt= 56+(1/(1/100+1/100))+27=83+50
 a) 113 Ω
