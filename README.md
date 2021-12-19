@@ -22,10 +22,14 @@ Primer circuito:  R1 y R4 están en serie con la combinación en paralelo de R2 
 Segundo Circuito: R1 está en serie con la combinación en paralelo de R2, R3 y R4.
 Tercer circuito: La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1.
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo
+
 ![](Imagen1/4.png)
+
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
-8. ![](Imagen1/5.png)
-9. 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
+
+![](Imagen1/5.png)
+
+9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
 Figura 1
 Rt= 56+(1/(1/100+1/100))+27=83+50
 a) 113 Ω
