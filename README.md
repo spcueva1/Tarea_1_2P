@@ -2,6 +2,8 @@
 # Objetivo
 Objetivo General:
 - Analizar los circuitos en Serie y en Paralelo, mediante el uso de diferentes leyes aplicables para los circuitos, para lograr establecer semejanzas y diferencias durante la resolución de problemas.
+
+
 Objetivo Especifico:
 - Analizar las fallas que se pueden presentar en los circuitos en serie y paralelo, siguiendo el algoritmo de solución correctamente.
 - Determinar el efecto de carga de un voltímetro en un circuitoDeterminar el efecto de carga de un voltímetro en un circuito.
