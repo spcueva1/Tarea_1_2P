@@ -27,38 +27,47 @@ Entonces, la Resistencia equivalente del circuito es:
 
 Corriente total: Al determinar la resistencia equivalente del circuito, se puede calcular la corriente total:
 
-![](Imágenes Crpio/FIGURA 5.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%205.PNG)
 
 Corrientes de rama: Mediante la utilización de los diferentes métodos de resolución de circuitos, se puede determinar la corriente en cada rama del circuito.
 Por ejemplo, para determinar la corriente en R2 y r3 del circuito, se sigue los siguientes pasos:
 
-![](Imágenes Crpio/FIGURA 6.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%206.PNG)
 
-![](Imágenes Crpio/FIGURA 7.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%207.PNG)
 
 Caídas de voltaje: Es necesario determinar el voltaje en ciertos puntos del circuito, utilizando los diferentes métodos de resolución de circuitos.
 
 3.- DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
 
-![](Imágenes Crpio/FIGURA 8.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%208.PNG)
 
 En la imagen se puede observar que, en el primer circuito, el divisor de voltaje se encuentra sin carga resistiva, por lo que el voltaje de 10 V se divide en un voltaje de 5 V, ya que las dos resistencias son de igual valor. En cambio, en el segundo circuito, se ha añadido una carga resistiva, por lo que la división del voltaje va a tener menor valor, y por ende, la resistencia total de todo el circuito también bajará.
 
 Corriente de carga y corriente remanente: Las corrientes de carga son aquella que circulas por las resistencias de carga.
 La corriente remanente es aquella que queda cuando se resta la corriente de carga total de la corriente toral del circuito.
 
-![](Imágenes Crpio/FIGURA 9.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%209.PNG)
 
-![](Imágenes Crpio/FIGURA 10.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%2010.PNG)
 
 Divisores de voltaje bipolar: Se refiere cuando ni la terminal positiva ni la terminal negativa de la fuente están conectadas a la Tierra Común, por lo que, con respecto a la tierra de referencia, los voltajes A y B son positivos, y los voltajes C y D son negativos.
 
-![](Imágenes Crpio/FIGURA 11.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%2011.PNG)
 
 4.- EFECTO DE CARGA DE UN VOLTÍMETRO
 Un voltímetro, al tener resistencia interna, afectará de cierta forma a la medición de voltaje del circuito. La resistencia interna del voltímetro afectará al circuito, si la resistencia no es lo suficientemente grande como la resistencia total del circuito.
 
-![](Imágenes Crpio/FIGURA 12.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%2012.PNG)
+
+Considerando la medición de voltaje con el voltímetro, se ve que la resistencia interna se encuentra en paralelo con la resistencia R3, entonces la resistencia total bajará, según el valor de la resistencia interna del voltímetro.
+5.- REDES EN ESCALERA
+Estas redes es un caso especial de los circuitos serie-paralelo. Para analizarlas, se deben simplificar las redes desde la más lejana de la fuente de voltaje.
+
+![](Imágenes Crpio/FIGURA 13.PNG)
+
+
+
 
 
 
