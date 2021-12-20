@@ -17,6 +17,10 @@ Resistencia total: Primero se debe reconocer la disposición de las resistencias
 
 ![](Imágenes resumen/FIGURA 2.PNG)
 
+En este Circuito, se identifica que las dos resistencias de 100 ohms están en paralelo, por lo que: 
+
+
+
 # Resolucion de ejercicios.
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
