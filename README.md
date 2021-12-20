@@ -3,6 +3,13 @@
 Objetivo General:
 Objetivo Especifico:
 # Marco Teorico
+Circuitos en Serie – Paralelo
+1.- IDENTIFICACIÓN DE RELACIONES EN SERIE-PARALELO
+Es una disposición del circuito, en donde se encuentran pequeños circuitos en serie y paralelo.
+Como se ve en la imagen, la corriente total pasa por la resistencia R1, y a partir del punto B, la corriente se divide, teniendo un valor diferente en la resistencia R2 y R3, para que luego estas corrientes parciales se unan en el nodo C, y así se vuelve una corriente total.
+Entonces la corriente equivalente del sistema se puede expresar como:
+RT = (R3||R2 + R1) 
+
 # Resolucion de ejercicios.
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
