@@ -10,6 +10,13 @@ Como se ve en la imagen, la corriente total pasa por la resistencia R1, y a part
 Entonces la corriente equivalente del sistema se puede expresar como:
 RT = (R3||R2 + R1) 
 
+![](Imágenes resumen/FIGURA 1.PNG)
+
+2.- ANÁLISIS DE CIRCUITOS RESISTIVOS EN SERIE-PARALELO
+Resistencia total: Primero se debe reconocer la disposición de las resistencias y sus relaciones, para determinar que resistencias están en serie con otras, y que resistencias están en paralelo con otras.
+
+![](Imágenes resumen/FIGURA 2.PNG)
+
 # Resolucion de ejercicios.
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
