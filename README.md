@@ -1,7 +1,12 @@
 # Informe_Tarea_1_2P
 # Objetivo
 Objetivo General:
+- Analizar los circuitos en Serie y en Paralelo, mediante el uso de diferentes leyes aplicables para los circuitos, para lograr establecer semejanzas y diferencias durante la resolución de problemas.
 Objetivo Especifico:
+- Analizar las fallas que se pueden presentar en los circuitos en serie y paralelo, siguiendo el algoritmo de solución correctamente.
+- Determinar el efecto de carga de un voltímetro en un circuitoDeterminar el efecto de carga de un voltímetro en un circuito.
+- Describir las características de una fuente de voltaje de cd,  las características de una fuente de corriente.
+
 # Marco Teorico
 Circuitos en Serie – Paralelo
 1.- IDENTIFICACIÓN DE RELACIONES EN SERIE-PARALELO
@@ -298,8 +303,15 @@ Vx=8.77 V
 # Video
 
 # Conclusiones
-
+- Logramos comprender las características de una fuente de voltaje de cd y  las características de una fuente de corriente.
+- En el análisis de circuitos, en ocasiones es útil convertir una fuente de voltaje en una
+fuente de corriente equivalente, o viceversa. 
+- Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Por ejemplo, la mayoría de los amplificadores operan con dos fuentes de voltaje: una fuente de cd y una de ca
 # Recomendaciones
+-En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que
+actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas.
+- El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
+- El término equivalencia, tal como se utiliza en los teoremas de Thevenin y de Norton, significa que al conectar una resistencia de carga dada al circuito equivalente, la resistencia tendrá el mismo voltaje y la misma corriente a través de ella como cuando estaba conectada al circuito original.
 
-# Biblioografia
-
+# Bibliografia
+Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación. Floyd, T. (2007). Cantidades y unidades. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 1-15). Pearson Educación Abreu, R. (2005). Fuentes de alimentación conmutadas. El1313-Electrónica III 2005, 4,5. http://www.el.bqto.unexpo.edu.ve/rabreu/Electronica3/Clase9.pdf
