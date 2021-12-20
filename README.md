@@ -19,6 +19,12 @@ Resistencia total: Primero se debe reconocer la disposición de las resistencias
 
 En este Circuito, se identifica que las dos resistencias de 100 ohms están en paralelo, por lo que: 
 
+![](Imágenes Crpio/FIGURA 3.PNG)
+
+Entonces, la Resistencia equivalente del circuito es:
+
+
+
 
 
 # Resolucion de ejercicios.
