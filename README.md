@@ -23,6 +23,46 @@ En este Circuito, se identifica que las dos resistencias de 100 ohms están en p
 
 Entonces, la Resistencia equivalente del circuito es:
 
+![](Imágenes Crpio/FIGURA 4.PNG)
+
+Corriente total: Al determinar la resistencia equivalente del circuito, se puede calcular la corriente total:
+
+![](Imágenes Crpio/FIGURA 5.PNG)
+
+Corrientes de rama: Mediante la utilización de los diferentes métodos de resolución de circuitos, se puede determinar la corriente en cada rama del circuito.
+Por ejemplo, para determinar la corriente en R2 y r3 del circuito, se sigue los siguientes pasos:
+
+![](Imágenes Crpio/FIGURA 6.PNG)
+
+![](Imágenes Crpio/FIGURA 7.PNG)
+
+Caídas de voltaje: Es necesario determinar el voltaje en ciertos puntos del circuito, utilizando los diferentes métodos de resolución de circuitos.
+
+3.- DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
+
+![](Imágenes Crpio/FIGURA 8.PNG)
+
+En la imagen se puede observar que, en el primer circuito, el divisor de voltaje se encuentra sin carga resistiva, por lo que el voltaje de 10 V se divide en un voltaje de 5 V, ya que las dos resistencias son de igual valor. En cambio, en el segundo circuito, se ha añadido una carga resistiva, por lo que la división del voltaje va a tener menor valor, y por ende, la resistencia total de todo el circuito también bajará.
+
+Corriente de carga y corriente remanente: Las corrientes de carga son aquella que circulas por las resistencias de carga.
+La corriente remanente es aquella que queda cuando se resta la corriente de carga total de la corriente toral del circuito.
+
+![](Imágenes Crpio/FIGURA 9.PNG)
+
+![](Imágenes Crpio/FIGURA 10.PNG)
+
+Divisores de voltaje bipolar: Se refiere cuando ni la terminal positiva ni la terminal negativa de la fuente están conectadas a la Tierra Común, por lo que, con respecto a la tierra de referencia, los voltajes A y B son positivos, y los voltajes C y D son negativos.
+
+![](Imágenes Crpio/FIGURA 11.PNG)
+
+4.- EFECTO DE CARGA DE UN VOLTÍMETRO
+Un voltímetro, al tener resistencia interna, afectará de cierta forma a la medición de voltaje del circuito. La resistencia interna del voltímetro afectará al circuito, si la resistencia no es lo suficientemente grande como la resistencia total del circuito.
+
+![](Imágenes Crpio/FIGURA 12.PNG)
+
+
+
+
 
 
 
