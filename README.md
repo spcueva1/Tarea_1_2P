@@ -310,7 +310,7 @@ Vx=8.77 V
 fuente de corriente equivalente, o viceversa. 
 - Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Por ejemplo, la mayoría de los amplificadores operan con dos fuentes de voltaje: una fuente de cd y una de ca
 # Recomendaciones
--En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que
+- En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que
 actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas.
 - El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
 - El término equivalencia, tal como se utiliza en los teoremas de Thevenin y de Norton, significa que al conectar una resistencia de carga dada al circuito equivalente, la resistencia tendrá el mismo voltaje y la misma corriente a través de ella como cuando estaba conectada al circuito original.
