@@ -19,11 +19,11 @@ Resistencia total: Primero se debe reconocer la disposición de las resistencias
 
 En este Circuito, se identifica que las dos resistencias de 100 ohms están en paralelo, por lo que: 
 
-![](Imágenes Crpio/FIGURA 3.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/fee5a52664af324e1d72114f95260f4a7c68bb92/Im%C3%A1genes%20Crpio/FIGURA%203.PNG)
 
 Entonces, la Resistencia equivalente del circuito es:
 
-![](Imágenes Crpio/FIGURA 4.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/fee5a52664af324e1d72114f95260f4a7c68bb92/Im%C3%A1genes%20Crpio/FIGURA%204.PNG)
 
 Corriente total: Al determinar la resistencia equivalente del circuito, se puede calcular la corriente total:
 
