@@ -15,7 +15,7 @@ RT = (R3||R2 + R1)
 2.- ANÁLISIS DE CIRCUITOS RESISTIVOS EN SERIE-PARALELO
 Resistencia total: Primero se debe reconocer la disposición de las resistencias y sus relaciones, para determinar que resistencias están en serie con otras, y que resistencias están en paralelo con otras.
 
-![](Imágenes resumen/FIGURA 2.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/1c5af521b16c03436cfcef17fdb16c8ade027e6d/Im%C3%A1genes%20Crpio/FIGURA%202.PNG)
 
 En este Circuito, se identifica que las dos resistencias de 100 ohms están en paralelo, por lo que: 
 
