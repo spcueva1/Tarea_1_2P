@@ -69,6 +69,7 @@ Un voltímetro, al tener resistencia interna, afectará de cierta forma a la med
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/4551601b5720f8d343803fbb9bd69d4057a41ae1/Im%C3%A1genes%20Crpio/FIGURA%2012.PNG)
 
 Considerando la medición de voltaje con el voltímetro, se ve que la resistencia interna se encuentra en paralelo con la resistencia R3, entonces la resistencia total bajará, según el valor de la resistencia interna del voltímetro.
+
 5.- REDES EN ESCALERA
 Estas redes es un caso especial de los circuitos serie-paralelo. Para analizarlas, se deben simplificar las redes desde la más lejana de la fuente de voltaje.
 
@@ -104,18 +105,21 @@ TEOREMAS DE CIRCUITOS Y CONVERSIONES
 En el análisis de circuitos, siempre se considera que las fuentes de voltaje son ideales. Sin embargo, cada una de estas fuentes posee una resistencia interna, ya sea por sus propiedades físicas, o por sus propiedades químicas.
 A pesar de esto, se puede utilizar una fuente de potencia para lograr acercarse a la fuente de voltaje ideal.
 Carga de la fuente de voltaje: Al conectar una carga resistiva en un circuito, la fuente de voltaje empieza a actuar en los extremos de ella. Si la carga resistiva llega a ser de un valor pequeño, la carga de fuente de voltaje se acerca al ideal.
+
 2.- LA FUENTE DE CORRIENTE
 Una fuente de corriente ideal proporciona un valor constante de corriente a través de de una carga resistiva, sin importar cuánto sea el valor de la carga.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2020.PNG)
 
 En la imagen se ilustra la disposición de una fuente de corriente dentro de un circuito. En este caso, la resistencia interna de la fuente de corriente está actuando en paralelo con la resistencia Rs. Si la resistencia interna llega a superar en su valor a la resistencia RL, el sistema se podría considerar ideal.
+
 3.- CONVERSIONES DE FUENTE
 Conversión de una fuente de voltaje en una fuente de corriente
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2021.PNG)
 
-Se introduce un nuevo concepto que se denomina Equivalencia terminal el cual enuncia que, con cualquier valor de una carga resistiva que se conecte a los dos tipos de fuentes, producirán un mismo valor de carga de voltaje y carga de corriente 
+Se introduce un nuevo concepto que se denomina Equivalencia terminal el cual enuncia que, con cualquier valor de una carga resistiva que se conecte a los dos tipos de fuentes, producirán un mismo valor de carga de voltaje y carga de corriente  
+
 Conversión de una fuente de corriente en una fuente de voltaje
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2022.PNG)
@@ -151,17 +155,21 @@ La equivalencia Thevenin dependiendo desde qué terminales es visto: Las equival
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2023.PNG)
 
 En este circuito, la equivalencia de Thevenin va a ser diferente si se ve el circuito desde las terminales A y C, que de las terminales A y B, o de las terminales B y C.
+
 6.- TEOREMA DE NORTON
+
 Este teorema simplifica un circuito lineal de dos terminales, en un circuito equivalente con sólo una fuente de corriente en paralelo con un resistor.
 
 Corriente equivalente de Norton (IN): La corriente equivalente de Norton (IN) es la corriente que se encuentra en cortocircuito entre dos terminales de salida de un circuito.
 
 Resistencia equivalente de Norton (RN): La resistencia equivalente de Norton, RN, es la resistencia total que aparece entre dos terminales de salida en un circuito dado que tiene todas las fuentes reemplazadas por sus resistencias internas.
 
-6.- TEOREMA DE TRANSFERENCIA DE POTENCIA MÁXIMA
+7.- TEOREMA DE TRANSFERENCIA DE POTENCIA MÁXIMA
+
 “Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.”
 
 CONVERSIONES DELTA A Y, Y Y A DELTA.
+
 Conversión Delta a Y: Cada resistor localizado en la Y es igual al producto de los resistores incluidos en dos ramas delta adyacentes, dividido entre la suma de los tres resistores en delta.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2024.PNG)
