@@ -636,6 +636,7 @@ del voltaje de referencia?
 
 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada
 a la red en configuración de escalera de la figura 8-87?
+![](https://github.com/spcueva1/Tarea_1_2P/blob/45f301b35d9a3785368d340257ef6fd5d2570dd9/WhatsApp%20Image%202021-12-21%20at%2010.21.44%20AM.jpeg)
 
 35. En la figura 8-89, convierta cada red Y en una red delta.
 
