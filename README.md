@@ -528,22 +528,28 @@ Por lo que el voltimetro numero dos esta mostrando el valor mal.
 
 Primero, reemplazamos La fuente de voltaje de 2V por su resistencia equivalente, en este caso es de 0. Y procedemos a realizar un análisis de mallas en el nuevo circuito.
 
-“FIGURA 2, 3 Y 4”
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%202.PNG)
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%203.PNG)
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%204.PNG)
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 
-“FIGURA 5, 6 Y 7”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%205.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%206.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%207.PNG)
 
 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohm, ¿cuál es el intervalo
 del voltaje de referencia?
 
-“FIGURA 8 Y 9”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%208.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%209.PNG)
+
 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 
-“FIGURA 10, 11, 12 y 13”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2010.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2011.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2012.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2013.PNG)
 
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
