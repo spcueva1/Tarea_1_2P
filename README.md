@@ -176,6 +176,10 @@ Conversión Delta a Y: Cada resistor localizado en la Y es igual al producto de 
 
 Conversión Y a Delta: Cada resistor incluido en la delta es igual a la suma de todos los posibles productos de resistores. Y tomados dos a la vez, y divididos entre el resistor Y opuesto. 
 
+**MAPA CONCEPTUAL**
+
+![](Imagenes_axel/mapa_tarea_1.png)
+
 
 
 # Resolucion de ejercicios.
@@ -320,8 +324,11 @@ Vx=8.77 V
 
 31.- Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
 
-33.- La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos. (a) Encuentre VG y VS 
+33.- La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 
+![](Imagenes_axel/axelejer_33.png)
+
+(a) Encuentre VG y VS 
 Req1=1/(1/2200k + 1/4,7k)= 4,689 kΩ
 
 Req2=1/(1/270k + 1/1,5k)=1,4917kΩ 
@@ -353,6 +360,8 @@ Un voltímetro aplica carga a un circuito porque la resistencia interna del medi
 
 37.-  El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 
+![](Imagenes_axel/axelejer_37.png)
+
 (a) ¿Qué intervalo se deberá utilizar?
 De 5V
 
@@ -360,6 +369,8 @@ De 5V
 5v-1.5v=3.5V
 
 39.- Para el circuito mostrado en la figura 7-77, calcule: 
+
+![](Imagenes_axel/axelejer_39.png)
 
 (a) La resistencia total entre las terminales de la fuente
 
@@ -398,6 +409,8 @@ V1k=6,84v
 
 41.- Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
+![](Imagenes_axel/axelejer_41.png)
+
 Req1=R5+R6+R7=100+680+100=880Ω
 Req2=1/(1/880 + 1/820)=424,47 Ω
 Req3=R3+R8+Req2=220+424,47+220=864,47 Ω
@@ -411,7 +424,9 @@ N2:
 I2=10/424,47= 0,02355 A
 
 43.- Determine IT y VSALIDA en la figura 7-80.
-![](Imagenes_axel/axelejer_33.png)
+
+![](Imagenes_axel/axelejer_43.png)
+
 Vsalida=15V
 
 Req1=1/(1/R11+1/R12)=1/(1/12+1/12)=6 Ω
@@ -429,6 +444,8 @@ RT=23,5+7,35=30,85 Ω
 IT=30/30,85=0,9724 A
 
 45.- Repita el problema 44 para las siguientes condiciones 
+
+![](Imagenes_axel/axelejer_45.png)
 
 (a) SW3 y SW4 conectados a +12 V, SW1 y SW2 a tierra 
 Req1=1/(1/24k+1/24)=12k
