@@ -529,80 +529,104 @@ Por lo que el voltimetro numero dos esta mostrando el valor mal.
 Primero, reemplazamos La fuente de voltaje de 2V por su resistencia equivalente, en este caso es de 0. Y procedemos a realizar un análisis de mallas en el nuevo circuito.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%202.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%203.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%204.PNG)
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%205.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%206.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%207.PNG)
 
 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohm, ¿cuál es el intervalo
 del voltaje de referencia?
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%208.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%209.PNG)
 
 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2010.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2011.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2012.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/d58e6a31fed5f37a0e5871de70330f675779969e/tare1%20carpio/FIGURA%2013.PNG)
 
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2014.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2015.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2016.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2017.PNG)
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2018.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2019.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2020.PNG)
 
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2021.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2022.PNG)
 
 *21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
 “FIGURA 23 Y 24”
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2023.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2024.PNG)
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
 “FIGURA 25, 26, 27, 28 Y 29”
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2025.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2026.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2027.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2028.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2029.PNG)
 
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2030.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2031.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2032.PNG)
 
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2033.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2034.PNG)
 
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2035.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2036.PNG)
 
 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2037.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2038.PNG)
 
 
@@ -611,9 +635,11 @@ a la red en configuración de escalera de la figura 8-87?
 
 35. En la figura 8-89, convierta cada red Y en una red delta.
 
-“FIGURA X, X1 Y X2”
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X1.PNG)
+
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X2.PNG)
 
 # Video
