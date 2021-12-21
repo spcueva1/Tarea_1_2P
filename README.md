@@ -411,6 +411,7 @@ N2:
 I2=10/424,47= 0,02355 A
 
 43.- Determine IT y VSALIDA en la figura 7-80.
+![](Imagenes_axel/axelejer_33.png)
 Vsalida=15V
 
 Req1=1/(1/R11+1/R12)=1/(1/12+1/12)=6 Ω
