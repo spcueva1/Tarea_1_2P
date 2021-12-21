@@ -522,6 +522,69 @@ IT=10/2,62=3,81mA
 V1=3,81*2,6246=9,976v
 Por lo que el voltimetro numero dos esta mostrando el valor mal.
 
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+“FIGURA 1”
+
+Primero, reemplazamos La fuente de voltaje de 2V por su resistencia equivalente, en este caso es de 0. Y procedemos a realizar un análisis de mallas en el nuevo circuito.
+
+“FIGURA 2, 3 Y 4”
+
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+
+“FIGURA 5, 6 Y 7”
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohm, ¿cuál es el intervalo
+del voltaje de referencia?
+
+“FIGURA 8 Y 9”
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+“FIGURA 10, 11, 12 y 13”
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+“FIGURA 14, 15, 16 Y 17”
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+
+“FIGURA 18, 19 Y 20”
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+“FIGURA 21 Y 22”
+
+*21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+“FIGURA 23 Y 24”
+
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+“FIGURA 25, 26, 27, 28 Y 29”
+
+25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+“FIGURA 30, 31 Y 32”
+
+27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+
+“FIGURA 33 Y 34”
+
+29. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+“FIGURA 35 Y 36”
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+“FIGURA 37 y 38”
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada
+a la red en configuración de escalera de la figura 8-87?
+
+35. En la figura 8-89, convierta cada red Y en una red delta.
+
+“FIGURA X, X1 Y X2”
+
 # Video
 
 # Conclusiones
