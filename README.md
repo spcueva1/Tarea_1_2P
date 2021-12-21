@@ -302,6 +302,192 @@ Re=6631.96Ω
 Vx=(22/18.3kΩ) * 6631.96Ω
 Vx=8.77 V
 
+31.- Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+
+33.- La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos. (a) Encuentre VG y VS 
+
+Req1=1/(1/2200k + 1/4,7k)= 4,689 kΩ
+
+Req2=1/(1/270k + 1/1,5k)=1,4917kΩ 
+(16-VG)/4,689k = VG/1,4917k
+
+VG=4,07962 V
+VS=4,07962 V
+
+(b) Determine I1, I2, ID, e IS 
+
+I1=16/2200=7,2 x10^-3 mA
+I2=4,079/270k= 0,015mA
+ID=16/4,7=3,40mA
+IS=3,40mA
+
+(c) Encuentre VDS y VDG
+
+(16-VDS)/4,7k +(16-VDS)/2200k =VDS/1.5k
+3,411k= VDS/4,7k +VDS/2200k + VDS/1.5k
+VDS=3,411/0.8798=3,87V
+ (16-VGD)/4,689k+ (16-VGD)/4,689  = VGD/1,4917k
+6,8244= VGD/1,4917 + VGD/4,689 + VGD/4,689
+VGD= 6,22 V
+
+35.- ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito? 
+Un voltímetro aplica carga a un circuito porque la resistencia interna del medidor aparece en paralelo con la resistencia del circuito entre el cual está conectado, por lo que la resistencia entre esos dos puntos del circuito disminuye y se extrae corriente del circuito
+
+(a) 1 V (b) 10 V (c) 100 V (d) 1000 V
+
+37.-  El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+
+(a) ¿Qué intervalo se deberá utilizar?
+De 5V
+
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+5v-1.5v=3.5V
+
+39.- Para el circuito mostrado en la figura 7-77, calcule: 
+
+(a) La resistencia total entre las terminales de la fuente
+
+Req1=560+560=1120Ω
+
+Req2=1k+1k=2k Ω
+
+Req3=560+2k=2,56k Ω
+
+Req4=1k+1120=2120 Ω
+
+R1estrella=(560*56)/(560+56+910)=20,50 Ω
+R2estrella=(560*910)/(560+56+910)=333,94 Ω
+R3estrella=(56*910)/(560+56+910)=33,39 Ω
+
+Req5=333,94+2,56k=2893,94 Ω
+Req6=33,39+2120=2153,39
+Req7=1234,66 Ω
+
+RT=1234,66+20,50=1255,1689 Ω
+
+(b) La corriente total suministrada por la fuente 
+IT=60/1255,1689=0,04780 A
+
+(c) La corriente a través del resistor de 910 Ω 
+Ix=60/(560+910)=0,0408
+
+(d) El voltaje desde el punto A hasta el punto B
+VR1=60/20,50=2,92v
+
+Ieq7=2,92/1234,66=2,365*10^-3
+
+Veq5=2893,94 * 2,365*10^-3=6,84v
+
+V1k=6,84v
+
+41.- Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+Req1=R5+R6+R7=100+680+100=880Ω
+Req2=1/(1/880 + 1/820)=424,47 Ω
+Req3=R3+R8+Req2=220+424,47+220=864,47 Ω
+Req4=1/(1/820+1/864,47)=420,8239
+
+RT=R1+R9+Req4=100+100+420,8239=620,82 Ω
+
+N1:
+I1=10/420,8239=0,023 A
+N2:
+I2=10/424,47= 0,02355 A
+
+43.- Determine IT y VSALIDA en la figura 7-80.
+Vsalida=15V
+
+Req1=1/(1/R11+1/R12)=1/(1/12+1/12)=6 Ω
+Req2=1/(1/R7+1/R8)=1/(1/18+1/18)=9Ω
+Req3=1/(1/R3+1/R4)=1/(1/27+1/27)=13,5Ω
+Req4=1/(1/12+1/12)=6 Ω
+Req5=1/(1/22+1/22)=11 Ω
+Req6=1/(1/47+1/47)=23,5 Ω
+Req7=6+6=12 Ω
+Req8=1/(1/9+1/12)=5,14 Ω
+Req9=11+5,14=16,142 Ω
+Req10=1/(1/13,5+1/16,142)=7,35 Ω
+
+RT=23,5+7,35=30,85 Ω
+IT=30/30,85=0,9724 A
+
+45.- Repita el problema 44 para las siguientes condiciones 
+
+(a) SW3 y SW4 conectados a +12 V, SW1 y SW2 a tierra 
+Req1=1/(1/24k+1/24)=12k
+Req2=12k+12k= 24k
+Req3=1/(1/24+1/24)=12k
+Req4=12k+12k=24k
+R1estrella=(24*24)/(24+24+12)=9,6
+R2estrella=(24*12)/(24+24+12)=4,8
+R3estrella=(12*24)/(24+24+12)=4,8
+
+Req5=24k+4,8k=28,8k
+
+Req6=1/(1/9,6k+1/4,8k)=3,8k
+
+RT=32,6k
+
+IT=12/32,6=0,3680 mA
+
+Vsalida=0,3680*28,8K=10,6012V
+
+(b) SW3 y SW1 conectados a +12 V, SW2 y SW4 a tierra 
+Req1=1/(1/24k+1/24)=12k
+Req2=12k+12k= 24k
+Req3=1/(1/24+1/24)=12k
+Req4=12k+12k=24k
+
+R1estrella=(24*24)/(24+24+12)=9,6
+
+R2estrella=(24*12)/(24+24+12)=4,8
+R3estrella=(12*24)/(24+24+12)=4,8
+
+Req5=24k+4,8k=28,8k
+Req6=1/(1/9,6k+1/4,8k)=3,8k
+
+RT=32,6k
+
+IT=12/32,6=0,3680 mA
+
+Vsalida=0,3680*28,8K=10,6012V
+
+(c) Todos los interruptores conectados a +12 V
+
+Req1=24+12=36k
+Req2=1/(1/24+1/36)=14,4k
+Req3=14,4+12=26,4k
+Req4=1/(1/26,4+1/24)=12,57k
+Req5=12,57+12=24,57k
+Req6=1/(1/24,57+1/24)=12,14k
+
+RT=32,14k
+
+Vsalida=12V
+
+47.- Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+El puente alcanza el estado de equilibrio cuando VA = VB; es decir, cuando VSALIDA = 0
+
+49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+El calculo seria obtener la corriente total y sacar el voltaje del nodo que une a las dos resistencias por lo tanto nos daría un total de 4,38 por lo que la lectura esta mal en este caso.
+
+51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
+El voltímetro que muestra la cantidad de cero porque, este debería estar dando el valor del voltaje conectado del nodo que une las resistencias R4 y R5.
+
+53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+Req1=1+2,2=3,2k
+Req2=1/(1/3,2k+1/3,3)=1,6246k
+
+RT=1+1,6246=2,6246k
+
+IT=10/2,62=3,81mA
+
+V1=3,81*2,6246=9,976v
+Por lo que el voltimetro numero dos esta mostrando el valor mal.
+
 # Video
 
 # Conclusiones
