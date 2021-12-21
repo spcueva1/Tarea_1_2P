@@ -524,7 +524,11 @@ Por lo que el voltimetro numero dos esta mostrando el valor mal.
 
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
 
-![](https://github.com/spcueva1/Tarea_1_2P/blob/c01f069b3442d802f210891f124d4bc52c7ebf01/tare1%20carpio/FIGURA%201.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/67f77e718ccf1efca95ed2a7e0a46b786bd2e885/Modificar/be0bb7f0-53b0-4e80-86b7-30f394c266f2.jpg)
+
+![](https://github.com/spcueva1/Tarea_1_2P/blob/67f77e718ccf1efca95ed2a7e0a46b786bd2e885/Modificar/87372eec-c779-4935-8e31-5b6266e56070.jpg)
+
+![](https://github.com/spcueva1/Tarea_1_2P/blob/67f77e718ccf1efca95ed2a7e0a46b786bd2e885/Modificar/7b99f166-5155-4256-9411-7a530cc78c16.jpg)
 
 Primero, reemplazamos La fuente de voltaje de 2V por su resistencia equivalente, en este caso es de 0. Y procedemos a realizar un análisis de mallas en el nuevo circuito.
 
