@@ -121,23 +121,30 @@ Conversión de una fuente de corriente en una fuente de voltaje
 
 4.- EL TEOREMA DE SUPERPOSICIÓN
 El enunciado general de este teorema es:
-En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse
-al determinar en esa rama particular las corrientes producidas por cada fuente que
-actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas. La
-corriente total en la rama es la suma algebraica de las corrientes individuales presentes
+En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas. La corriente total en la rama es la suma algebraica de las corrientes individuales presentes
 en dicha rama.
+
 Para aplicar el teorema, se siguen los siguientes pasos:
+
 -Dejar una fuente a la vez dentro del circuito de análisis, y reemplazar las demás fuentes con el valor de su resistencia interna.
+
 -Determinar la corriente dentro del circuito obtenido (sólo una fuente)
+
 -Repetir los dos pasos anteriores con las otras fuentes.
+
 -Al acabar con todas las fuentes y sus corrientes, se debe realizar una suma algebraica de todas las corrientes parciales obtenidas. Con esto se determina el valor verdadero de la corriente.
+
 5.- TEOREMA DE THEVENIN 
+
 El teorema se utiliza para simplificar el circuito que se quiere analizar, a una forma más simplificada y sencilla para el análisis.
+
 “En un circuito eléctrico, el voltaje equivalente de Thevenin (VTH) es el voltaje de circuito
 abierto (sin carga) presente entre dos terminales de salida”
+
 “La resistencia equivalente de Thevenin (RTH) es la resistencia total que aparece entre dos
 terminales en un circuito dado que tiene todas las fuentes reemplazadas por sus resistencias
 internas”
+
 La equivalencia Thevenin dependiendo desde qué terminales es visto: Las equivalencias de Thevenin son diferentes, dependiendo desde que terminales se ve el circuito.
 
 ![](https://github.com/spcueva1/Tarea_1_2P/blob/62d2f73139806af94c33538c4c8fe852fc9ce515/Im%C3%A1genes%20Crpio/FIGURA%2023.PNG)
