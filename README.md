@@ -586,19 +586,25 @@ del voltaje de referencia?
 
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
-“FIGURA 30, 31 Y 32”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2030.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2031.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2032.PNG)
 
 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 
-“FIGURA 33 Y 34”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2033.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2034.PNG)
 
 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
-“FIGURA 35 Y 36”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2035.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2036.PNG)
 
 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
 
-“FIGURA 37 y 38”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2037.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%2038.PNG)
+
 
 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada
 a la red en configuración de escalera de la figura 8-87?
@@ -606,6 +612,9 @@ a la red en configuración de escalera de la figura 8-87?
 35. En la figura 8-89, convierta cada red Y en una red delta.
 
 “FIGURA X, X1 Y X2”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X1.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/c82342dcb775b4b184556a1bb609cb9254283daf/tare1%20carpio/FIGURA%20X2.PNG)
 
 # Video
 
