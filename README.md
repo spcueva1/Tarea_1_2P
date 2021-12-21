@@ -648,6 +648,8 @@ a la red en configuración de escalera de la figura 8-87?
 
 # Video
 
+https://youtu.be/Zxqx_UqszYg
+
 # Conclusiones
 - Logramos comprender las características de una fuente de voltaje de cd y  las características de una fuente de corriente.
 - En el análisis de circuitos, en ocasiones es útil convertir una fuente de voltaje en una
