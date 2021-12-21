@@ -553,23 +553,36 @@ del voltaje de referencia?
 
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
-“FIGURA 14, 15, 16 Y 17”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2014.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2015.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2016.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2017.PNG)
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 
-“FIGURA 18, 19 Y 20”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2018.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2019.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2020.PNG)
 
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 
-“FIGURA 21 Y 22”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2021.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2022.PNG)
 
 *21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
 “FIGURA 23 Y 24”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2023.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2024.PNG)
 
 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
 “FIGURA 25, 26, 27, 28 Y 29”
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2025.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2026.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2027.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2028.PNG)
+![](https://github.com/spcueva1/Tarea_1_2P/blob/716d7d4d2bf2a1637be9e2cec5d6013c7f0f9456/tare1%20carpio/FIGURA%2029.PNG)
 
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
